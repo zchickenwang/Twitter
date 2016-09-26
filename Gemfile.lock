@@ -191,7 +191,7 @@ GEM
     fog-voxel (0.1.0)
       fog-core
       fog-xml
-    fog-vsphere (1.1.0)
+    fog-vsphere (1.2.0)
       fog-core
       rbvmomi (~> 1.8.0)
     fog-xenserver (0.2.3)
@@ -242,7 +242,7 @@ GEM
     mimemagic (0.3.2)
     mini_magick (4.5.1)
     mini_portile2 (2.1.0)
-    minitest (5.9.0)
+    minitest (5.9.1)
     minitest-reporters (1.1.9)
       ansi
       builder
